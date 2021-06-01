@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+      "incremental": true,
+      "allowJs": true,
+      "lib": [
+          "es6",
+          "dom",
+          "es2017"
+      ],
+      "types": []
+  },
+  "exclude": [
+      "node_modules"
+  ]
+}
